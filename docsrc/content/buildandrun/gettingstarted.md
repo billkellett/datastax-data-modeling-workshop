@@ -8,7 +8,7 @@ menu:
       weight: 901
 ---
 
-Example for how to use this asset:
+The Data Modeling Workshop is deployed as a standard AssetHub asset:
 
 ## Startup Script
 
