@@ -6,6 +6,6 @@
 if [ `hostname` == 'node0' ]
 then
 
-  sudo service opscenterd restart
+  sudo service opscenterd restart 
 
 fi
