@@ -15,7 +15,7 @@ This workshop teaches new users the principles of Data Modeling in DSE.  The wor
 
 ### What is included?
 
-A PowerPoint presentation (with detailed speaker notes) walks the students through DSE Data Modeling with a 4-step approach: Conceptual, Logical, Physical, and Optimization.  We include the following DSE components:
+Studio notebooks and a corresponding presentation (with detailed speaker notes) that walks students through DSE Data Modeling with a 4-step approach: Conceptual, Logical, Physical, and Optimization. The data modeling content spans the following areas of DSE:
 
 * DSE Core
 * DSE Studio
