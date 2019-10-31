@@ -35,6 +35,8 @@ In addition, DSE's *contextual* capabilities support the many different applicat
 
 ### Other Resources:
 DS220: Data Modeling : https://academy.datastax.com/resources/ds220-data-modeling
+
 Data modeling concepts: https://docs.datastax.com/en/dse/6.7/cql/cql/ddl/dataModelingApproach.html
+
 Basic Rules of Cassandra Data Modeling: https://www.datastax.com/blog/2015/02/basic-rules-cassandra-data-modeling
 
