@@ -32,3 +32,9 @@ By using a few foundational DSE Data Modeling principles, customers can build ap
 * Unlimited *scalability*
 
 In addition, DSE's *contextual* capabilities support the many different application stakeholders in a modern enterprise, including Customers, Customer Service Representatives, Business Analysts, Data Scientists, etc.
+
+### Other Resources:
+DS220: Data Modeling : https://academy.datastax.com/resources/ds220-data-modeling
+Data modeling concepts: https://docs.datastax.com/en/dse/6.7/cql/cql/ddl/dataModelingApproach.html
+Basic Rules of Cassandra Data Modeling: https://www.datastax.com/blog/2015/02/basic-rules-cassandra-data-modeling
+
