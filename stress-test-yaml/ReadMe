@@ -1,0 +1,5 @@
+cassandra-stress user profile=./dm_workshop_sprint_02.yaml ops\(insert=1\) cl=LOCAL_ONE n=100000 -rate threads=8 -node 172.31.46.104,172.31.36.229,172.31.43.228	
+
+cassandra-stress user profile=./dm_workshop_sprint_04.yaml ops\(insert=1\) cl=LOCAL_ONE n=100000 -rate threads=8 -node 172.31.46.104,172.31.36.229,172.31.43.228	
+
+
